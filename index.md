@@ -1,43 +1,37 @@
-## Welcome to SUSE for java devs
+# Welcome to SUSE for java devs!
 
-### Goals
+## Philosophy
 
-The goal of this project is to contain recipes for developing with Java, regardless of the Operating System where you come from, on SUSE based distributions.
+The \*SUSE way is to avoid vendor lock-in, and leverage freely available standards where possible.
 
-### How to contribute
+This repository is following the same guidelines, and you will basically see how to migrate from your proprietary systems, towards freely available solutions based on standards.
 
-You can use the [editor on GitHub](https://github.com/evrardjp/suse-for-java-devs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The git repo will contain tools to build your own environments on SUSE based distros.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Disclaimer
 
-#### Markdown
+SUSE SLES product supports tomcat. If you only need tomcat, you might not need to check further, and just use SLES.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This repository takes a different approach: "What can we build together, as a community (and therefore not supported by SUSE), to have a different kind of working JAVA environments on \*SUSE based distros?".
 
-```markdown
-Syntax highlighted code block
+This repository should also resolve the pain points of migrating from proprietary systems towards open, freely available ones.
 
-# Header 1
-## Header 2
-### Header 3
+## Repository contents
 
-- Bulleted
-- List
+* Docs and learning experiences
+* Migration tooling from * towards tomEE (tomcat + JakartaEE)
+* How to build your own packages/containers with intermediary solutions, which might be helping on the migration (Wildfly).
+* How to use tomcat/tomEE/Spring on SUSE based distros and products
 
-1. Numbered
-2. List
+# SUSE for JBoss users
 
-**Bold** and _Italic_ and `Code` text
+# SUSE for Weblogic users
 
-[Link](url) and ![Image](src)
-```
+# SUSE for Websphere users
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# SUSE for Glassfish users
 
-#### Jekyll Themes
+# SUSE for TomEE users
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evrardjp/suse-for-java-devs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# SUSE for Spring users
 
-#### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
