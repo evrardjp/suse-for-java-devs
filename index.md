@@ -11,6 +11,7 @@ The git repo will contain tools to build your own environments on SUSE based dis
 ## Disclaimer
 
 SUSE SLES product supports tomcat. If you only need tomcat, you might not need to check further, and just use SLES.
+SUSE CAP (CloudFoundry+Kubernetes) product has an official java buildpack too.
 
 This repository takes a different approach: "What can we build together, as a community (and therefore not supported by SUSE), to have a different kind of working JAVA environments on \*SUSE based distros?".
 
