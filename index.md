@@ -36,12 +36,12 @@ This repository should also resolve the pain points of migrating from proprietar
 
 # SUSE for Spring users
 
-### How to contribute to this project
+# How to contribute to this project
 
 You can contribute to documentation, or to code (packaging, migration tooling, ...).
 The code for the migration tooling is in master branch, while the documentation is in the gh-pages branch.
 
-### How to contribute to this documentation
+## How to contribute to this documentation
 
 You can fork this repo, and use the [editor on GitHub](https://github.com/evrardjp/suse-for-java-devs/edit/gh-pages/index.md) to maintain and preview the content.
 
