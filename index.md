@@ -4,7 +4,7 @@
 
 The \*SUSE way is to avoid vendor lock-in, and leverage freely available standards where possible.
 
-This repository is following the same guidelines, and you will basically see how to migrate from your proprietary systems, towards freely available solutions based on standards.
+This project is following the same guidelines, and you will basically see how to migrate from your proprietary systems, towards freely available solutions based on the latest standards.
 
 The git repo will contain tools to build your own environments on SUSE based distros.
 
@@ -36,3 +36,13 @@ This repository should also resolve the pain points of migrating from proprietar
 
 # SUSE for Spring users
 
+### How to contribute to this project
+
+You can contribute to documentation, or to code (packaging, migration tooling, ...).
+The code for the migration tooling is in master branch, while the documentation is in the gh-pages branch.
+
+### How to contribute to this documentation
+
+You can fork this repo, and use the [editor on GitHub](https://github.com/evrardjp/suse-for-java-devs/edit/gh-pages/index.md) to maintain and preview the content.
+
+Alternatively, you can build you own environment with Jekyll: GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild the pages of this site, from the content of the Markdown files.
